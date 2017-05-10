@@ -1,4 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac -67.897111 -9.863111 187.6 180
 OBJECT_SHARED Models/Airport/ils.xml -67.881861 -9.861306 176.74 236.93
 OBJECT_SHARED Models/Communications/vordme_1.xml -67.895333 -9.871833 183.45 180
+OBJECT_SHARED Models/Aircraft/dc3_red_lowpoly.ac -67.894837 -9.8676029 184.65 296
+OBJECT_SHARED Models/Aircraft/dc3_red_lowpoly.ac -67.8946457 -9.8679316 184.56 296
+OBJECT_SHARED Models/Aircraft/dhc6_green_lowpoly.ac -67.8933472 -9.8666017 184.46 120
 OBJECT_STATIC SBRB_Terminal.xml -67.894381 -9.8673064 184.58 122.9
